@@ -1,0 +1,46 @@
+          coding Chalange 
+
+Q 1 >>>>>  this is rest Api in our spring file
+
+Q 2 >>>> this is a also rest Api in our spring file 
+
+Q > 3 >>>>
+
+
+ans >>>>  Key things are 
+ 
+1 >> prooper exception handel when any exception occurs.
+
+2 >> when creating api 1st there is a get method using param anotation and get tge value from database.
+
+3 >> in the 2nd question creating an api and fetch the value from database using a parameter.
+
+
+     Theoretical chalange 
+
+
+Q > 1 >>> we tackale this with spring boot project 
+
+1st do this model  class 
+and make a java class name with tutorial.java
+
+2nd exception class all the exception we ar handle by ourself 
+
+3rd create a helper class 
+
+4th now we make repository class and service class and controller class
+
+
+Q > 2 >>>>> we are checking type pf erorr
+
+1> when we save the file check file format 
+2> user can write proper csv file 
+3> user entering the correct input data 
+4> also a other type of error.
+
+
+Q > 3 >>> user breake my code as a first we want to write something 
+on the application or a browser.
+then user can write perfect csv file  and save the psv file on our local storage.
+
+ 
